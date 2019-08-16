@@ -1,5 +1,5 @@
-# codewars.com
-Completed solutions in codewars.com
+# Примеры решений задач с codewars.com
+![Rank](rank.PNG)
 
 ```kotlin
 fun argsCount(vararg args: Any): Int {
