@@ -1,5 +1,7 @@
 # Примеры решений задач с codewars.com
-https://www.codewars.com/users/Jacen
+
+[Профиль на сайте](https://www.codewars.com/users/Jacen)  
+
 ![Rank](rank.PNG)
 
 ```kotlin
